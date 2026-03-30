@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff35b64eac5604f4f898aa16a07603c5, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  shapes:
+  - {fileID: 8869761220751452947, guid: 4327186184fc00647a80b9d9d1dd83e0, type: 3}
+  - {fileID: 7203092131934306505, guid: bda5e202b0fe98947a73f721ef98c190, type: 3}
+  - {fileID: 5386923537209795549, guid: 6a1a3e6f9486a1542ab41e4fe902d9c2, type: 3}
+  - {fileID: 7214512101736284799, guid: aa97a9c8af9a1564f878e57e6288ef42, type: 3}
+  - {fileID: 7296530875786662013, guid: 096c7d5b3ace8fb4f88a8a2b02bd7fc6, type: 3}
+  - {fileID: 4439472424302226481, guid: 8a62fecc2a40ea44aa8ddfa95e47fc1f, type: 3}
+  - {fileID: 5641577903582141614, guid: 3b55673ac22c2eb4caad5af584f97dc5, type: 3}
+  shapesOnline:
+  - {fileID: 8869761220751452947, guid: 8a20e46860d9f374db7a6c0f9f270d8b, type: 3}
+  - {fileID: 7203092131934306505, guid: 5d1242c6bb25fb94985a024acbd1b909, type: 3}
+  - {fileID: 5386923537209795549, guid: 1d946b138a38d9943aaebeb9817573eb, type: 3}
+  - {fileID: 7214512101736284799, guid: 2aa8c3233a21f924086ae659dfe3f784, type: 3}
+  - {fileID: 7296530875786662013, guid: 0afdbd0664d5d7f41bd875394f3b9ad4, type: 3}
+  - {fileID: 4439472424302226481, guid: b56fd07628c6b3c449a87c4097ebac15, type: 3}
+  - {fileID: 5641577903582141614, guid: 1dd058b3d32c8b2419ca38afa04cceb3, type: 3}
+  shapePreview: {fileID: 1323439142723458263, guid: 74fb3783a3d02144da38089f57151ed0, type: 3}
+  colors:
+  - {r: 0.36078432, g: 0.74509805, b: 0.8941177, a: 1}
+  - {r: 0.59607846, g: 0.86274517, b: 0.33333334, a: 1}
+  - {r: 0.32941177, g: 0.32941177, b: 0.32941177, a: 1}
+  - {r: 0.8588236, g: 0.4039216, b: 0.3372549, a: 1}
+  - {r: 0.9294118, g: 0.58431375, b: 0.2901961, a: 1}
+  - {r: 1, g: 0.3537736, b: 0.5657128, a: 1}
+  - {r: 0.6460248, g: 0.16509432, b: 1, a: 1}
+  rubbisonline: {fileID: 3146210001430783224, guid: e031a79f389e5c647aed8fc2eba62ff2, type: 3}
+  floors:
+  - {fileID: 4278657036805275636, guid: 434efa7242e63094cb7ad62e7b7d3470, type: 3}
+  - {fileID: 2640389558346619767, guid: dd632b5850b091743b6af8aff8743738, type: 3}
+  - {fileID: 7087883277313691891, guid: d3a55a1a116cc3b40a65347cbfffc57d, type: 3}
+  cursor: {fileID: 8300000, guid: ef714803c9fd0c14bbc1ddff6743785e, type: 3}
+  drop: {fileID: 8300000, guid: df98ec090b11487438b996d58e9342aa, type: 3}
+  controlMove: {fileID: 8300000, guid: 792f86c16893c4e4ea54613089483a52, type: 3}
+  lineclear: {fileID: 8300000, guid: d14745772c2930b4b9f8e459b066cab8, type: 3}
+  gameOver: {fileID: 8300000, guid: b2fa993c86a6ef845acf788a47bf6895, type: 3}
+  fallDirectly: {fileID: 8300000, guid: 1d3ffad54cf2a1d4cb2ecb50e9b75f23, type: 3}
+  destroyParticles: {fileID: 1549184348226137601, guid: 933aae5117ab2e54e8ba8e05bcdf83a6, type: 3}

@@ -1,0 +1,18 @@
+public enum EventType {
+    GameOver,
+    GameTrue,
+    StartGame,
+    Attack,
+    EnemyPrepare,
+    UpdateEnemyMap,
+    ExitOnlineGame,
+    PlayerExit,
+    EnemyToFalse,
+    MenuStartButtonClick,
+    PauseStartButtonClick,
+    PauseRestartButtonClick,
+    PauseHomeButtonClick,
+    GamePauseButtonButtonClick,
+    GameOverRestartButtonClick,
+    GameOverHomeButtonClick,
+}
